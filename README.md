@@ -26,7 +26,7 @@
 <div align="center" class="earth"><img width="300px" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/image.gif"></div>
 <div align="center">
   <a href="https://twitter.com/Artoomic?t=_1JvftTP12RwWJ1CaKKMew&s=09" alt="twitter"><img  width="45"  src="https://github.com/Mehrshad-Z/Mehrshad-Z/blob/main/Pic-Gif/Social-Media/icons8-twitter-circled.svg"></img></a>
-  <a href="https://t.me/EndOfrontend" alt="telegram"><img  width="45" src="https://github.com/Mehrshad-Z/Mehrshad-Z/blob/main/Pic-Gif/Social-Media/icons8-telegram.svg"></a>
+  <a href="https://t.me/EndOFrontend" alt="telegram"><img  width="45" src="https://github.com/Mehrshad-Z/Mehrshad-Z/blob/main/Pic-Gif/Social-Media/icons8-telegram.svg"></a>
   <a href="https://instagram.com/endofrontend?igshid=ZGUzMzM3NWJiOQ==" alt="instagram"><img  width="45" src="https://github.com/Mehrshad-Z/Mehrshad-Z/blob/main/Pic-Gif/Social-Media/icons8-instagram.svg"></a>
   <a href="https://www.facebook.com/EndoFrontend?mibextid=ZbWKwL" alt="facebook"><img  width="45" src="https://github.com/Mehrshad-Z/Mehrshad-Z/blob/main/Pic-Gif/Social-Media/icons8-facebook.svg"></a>
   <a href="https://www.linkedin.com/in/mehrshad-zarifian" alt="linkedin"><img  width="45" src="https://github.com/Mehrshad-Z/Mehrshad-Z/blob/main/Pic-Gif/Social-Media/icons8-linkedin-circled.svg"></a>
