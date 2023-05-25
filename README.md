@@ -1,24 +1,70 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=100&color=F78500&center=true&vCenter=true&width=435&lines=Hi+there+;IM+HAPPY+TO+SEE+YOU" alt="Typing SVG" />
+  </a>
+</h1>
+ 
+ <br><br>
+<div align="center">
+  <p>Im Mehrshad a Front-End developer</p>
+  <p>I am interested in doing special and professional projects</p>
+  <p></p>
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Endofrontend) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehrshad-zarifian) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Artoomic) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Mehrshad-Z) 
+<br><br>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mehrshad-Z&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mehrshad-Z&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrshad-Z&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <code><img height="60" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/icons8-css.svg"></code>
+  <code><img height="60" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/icons8-html-5.svg"></code>
+  <code><img height="60" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/icons8-js.svg"></code>
+  <code><img height="60" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/icons8-github.svg"></code>
+  <code><img height="60" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/icons8-visual-studio-code-2019.svg"></code>
+  <code><img height="60" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/icons8-git.svg"></code>
+</div>
+<br><br><br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mehrshad-Z&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
+<div align="center" class="earth"><img width="300px" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/image.gif"></div>
+<div align="center">
+  <a href="" alt=""><img  width="30" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/twitter.svg"></a>
+  <a href="" alt=""><img  width="30"  src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/linked-in-alt.svg"></img></a>
+  <a href="" alt=""><img  width="30" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/instagram.svg"></a>
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+<br><br><br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mehrshad-Z&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko"></div>
 
----
-[![](https://visitcount.itsvg.in/api?id=Mehrshad-Z&icon=2&color=12)](https://visitcount.itsvg.in)
+<br><br>
+<hr>
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align=center>
+  <a href="" title="">
+    <img  width="390" src="https://github-readme-stats.vercel.app/api?username=Mehrshad-Z&theme=vision-friendly-dark&hide_border=true&background=FFFFFF00&include_all_commits=false&count_private=false" >
+  </a>
+  <a href="" title="">
+    <img  width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Mehrshad-Z&theme=vision-friendly-dark&hide_border=true&background=FFFFFF00" >
+  </a>
+</div>
+
+<div align=center>
+  <a href="">
+    <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrshad-Z&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&background=FFFFFF00" >
+  </a>
+</div>
+ 
+  
+
+
+<br><br>
+
+<div align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Mehrshad-Z&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4">
+</div>
+
+<br><br>
+
+<div align="">
+  <a href="https://www.coffeebede.com/mehrshad"><img width="200" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg"/></a>
+  <a href="https://www.coffeebede.com/mehrshad"><img width="20%" align="right" src="https://visitcount.itsvg.in/api?id=Mehrshad-Z&icon=2&color=12"/></a>
+</div>
