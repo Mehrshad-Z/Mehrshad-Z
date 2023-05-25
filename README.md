@@ -14,20 +14,22 @@
 <br><br>
 
 <div align="center">
-  <code><img height="60" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/icons8-css.svg"></code>
-  <code><img height="60" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/icons8-html-5.svg"></code>
-  <code><img height="60" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/icons8-js.svg"></code>
-  <code><img height="60" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/icons8-github.svg"></code>
-  <code><img height="60" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/icons8-visual-studio-code-2019.svg"></code>
-  <code><img height="60" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/icons8-git.svg"></code>
+  <code><img height="60" src="https://github.com/Mehrshad-Z/Mehrshad-Z/blob/main/Pic-Gif/Tools-Lang/icons8-html-5.svg"></code>
+  <code><img height="60" src="https://github.com/Mehrshad-Z/Mehrshad-Z/blob/main/Pic-Gif/Tools-Lang/icons8-css.svg"></code>
+  <code><img height="60" src="https://github.com/Mehrshad-Z/Mehrshad-Z/blob/main/Pic-Gif/Tools-Lang/icons8-js.svg"></code>
+  <code><img height="60" src="https://github.com/Mehrshad-Z/Mehrshad-Z/blob/main/Pic-Gif/Tools-Lang/icons8-github.svg"></code>
+  <code><img height="60" src="https://github.com/Mehrshad-Z/Mehrshad-Z/blob/main/Pic-Gif/Tools-Lang/icons8-git.svg"></code>
+  <code><img height="60" src="https://github.com/Mehrshad-Z/Mehrshad-Z/blob/main/Pic-Gif/Tools-Lang/icons8-visual-studio-code-2019.svg"></code>
 </div>
 <br><br><br>
 
 <div align="center" class="earth"><img width="300px" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/image.gif"></div>
 <div align="center">
-  <a href="" alt=""><img  width="30" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/twitter.svg"></a>
-  <a href="" alt=""><img  width="30"  src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/linked-in-alt.svg"></img></a>
-  <a href="" alt=""><img  width="30" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/instagram.svg"></a>
+  <a href="insta" alt=""><img  width="34" src=""></a>
+  <a href="twitter" alt=""><img  width="45"  src="https://github.com/Mehrshad-Z/Mehrshad-Z/blob/main/Pic-Gif/Social-Media/icons8-twitter-circled.svg"></img></a>
+  <a href="telegram" alt=""><img  width="45" src="https://github.com/Mehrshad-Z/Mehrshad-Z/blob/main/Pic-Gif/Social-Media/icons8-telegram.svg"></a>
+  <a href="facebook" alt=""><img  width="45" src="https://github.com/Mehrshad-Z/Mehrshad-Z/blob/main/Pic-Gif/Social-Media/icons8-facebook.svg"></a>
+  <a href="" alt=""><img  width="45" src=""></a>
 </div>
 
 <br><br><br>
