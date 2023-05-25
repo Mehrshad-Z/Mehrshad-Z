@@ -25,9 +25,9 @@
 
 <div align="center" class="earth"><img width="300px" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/image.gif"></div>
 <div align="center">
-  <a href="" alt="instagram"><img  width="34" src=""></a>
   <a href="" alt="twitter"><img  width="45"  src="https://github.com/Mehrshad-Z/Mehrshad-Z/blob/main/Pic-Gif/Social-Media/icons8-twitter-circled.svg"></img></a>
   <a href="" alt="telegram"><img  width="45" src="https://github.com/Mehrshad-Z/Mehrshad-Z/blob/main/Pic-Gif/Social-Media/icons8-telegram.svg"></a>
+  <a href="" alt="instagram"><img  width="45" src="https://github.com/Mehrshad-Z/Mehrshad-Z/blob/main/Pic-Gif/Social-Media/icons8-instagram.svg"></a>
   <a href="" alt="facebook"><img  width="45" src="https://github.com/Mehrshad-Z/Mehrshad-Z/blob/main/Pic-Gif/Social-Media/icons8-facebook.svg"></a>
   <a href="" alt="linkedin"><img  width="45" src="https://github.com/Mehrshad-Z/Mehrshad-Z/blob/main/Pic-Gif/Social-Media/icons8-linkedin-circled.svg"></a>
 </div>
