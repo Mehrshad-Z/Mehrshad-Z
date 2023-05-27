@@ -8,10 +8,11 @@
 <div align="center">
   <p>Im Mehrshad a Front-End developer</p>
   <p>I am interested in doing special and professional projects</p>
-  <p></p>
+  <br>
+  <h3>Languages & Tools :</h3>
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
   <code><img height="60" src="https://github.com/Mehrshad-Z/Mehrshad-Z/blob/main/Pic-Gif/Tools-Lang/icons8-html-5.svg"></code>
@@ -23,8 +24,9 @@
 </div>
 <br><br><br>
 
-<div align="center" class="earth"><img width="300px" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/image.gif"></div>
 <div align="center">
+  <!--<h3>Contact me :</h3>-->
+  <div align="center" class="earth"><img width="300px" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/image.gif"></div>
   <a href="https://twitter.com/Artoomic?t=_1JvftTP12RwWJ1CaKKMew&s=09" alt="twitter"><img  width="45"  src="https://github.com/Mehrshad-Z/Mehrshad-Z/blob/main/Pic-Gif/Social-Media/icons8-twitter-circled.svg"></img></a>
   <a href="https://t.me/EndOFrontend" alt="telegram"><img  width="45" src="https://github.com/Mehrshad-Z/Mehrshad-Z/blob/main/Pic-Gif/Social-Media/icons8-telegram.svg"></a>
   <a href="https://instagram.com/endofrontend?igshid=ZGUzMzM3NWJiOQ==" alt="instagram"><img  width="45" src="https://github.com/Mehrshad-Z/Mehrshad-Z/blob/main/Pic-Gif/Social-Media/icons8-instagram.svg"></a>
@@ -68,5 +70,5 @@
 
 <div align="">
   <a href="https://www.coffeebede.com/mehrshad"><img width="200" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg"/></a>
-  <a href="https://www.coffeebede.com/mehrshad"><img width="20%" align="right" src="https://visitcount.itsvg.in/api?id=Mehrshad-Z&icon=2&color=12"/></a>
+  <a href="https://www.coffeebede.com/mehrshad"><img width="150" align="right" src="https://visitcount.itsvg.in/api?id=Mehrshad-Z&icon=2&color=12"/></a>
 </div>
